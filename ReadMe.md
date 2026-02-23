@@ -3,6 +3,10 @@
 HingaSmart Rwanda is a simple smart agriculture web project built using **HTML** and **Tailwind CSS**.  
 It includes a login page and a farmer dashboard.
 
+## Author 
+Names: GATETE LOIC Tekla
+Reg Number: 25RP01135
+
 ---
 
 ##  Project Files
