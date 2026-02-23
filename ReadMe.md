@@ -67,7 +67,9 @@ Includes:
 - Internet connection required (for Tailwind CDN)
 
 ---
-
+## Screenshots
+![Login Page]![alt text](<Screenshot (379).png>)
+![Dashboard Page]![alt text](<Screenshot (380).png>)
 ##  Year
 
 2026 – HingaSmart Rwanda 
